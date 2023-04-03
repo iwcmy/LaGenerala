@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1657224071 source:c:\users\franco\desktop\utn\laboratorio de computación i - tup - 2022 1c\parcial 2 - tp integrador\pruebas\generala\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<mmsystem.h>
+	"funciones.h"
+	"rlutil.h"
+
+1657301136 c:\users\franco\desktop\utn\laboratorio de computación i - tup - 2022 1c\parcial 2 - tp integrador\pruebas\generala\funciones.h
+	"rlutil.h"
+
+1656711729 c:\users\franco\desktop\utn\laboratorio de computación i - tup - 2022 1c\parcial 2 - tp integrador\pruebas\generala\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657224071 source:c:\users\user\desktop\utn\laboratorio 2022\proyecto 1 parte 3\generala\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<mmsystem.h>
+	"funciones.h"
+	"rlutil.h"
+
+1657238870 c:\users\user\desktop\utn\laboratorio 2022\proyecto 1 parte 3\generala\funciones.h
+	"rlutil.h"
+
+1656711729 c:\users\user\desktop\utn\laboratorio 2022\proyecto 1 parte 3\generala\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657224071 source:c:\users\franco\desktop\utn\laboratorio de computación i - tup - 2022 1c\parcial 2 - tp integrador\pruebas\xd\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<mmsystem.h>
+	"funciones.h"
+	"rlutil.h"
+
+1657297311 c:\users\franco\desktop\utn\laboratorio de computación i - tup - 2022 1c\parcial 2 - tp integrador\pruebas\xd\funciones.h
+	"rlutil.h"
+
+1656711729 c:\users\franco\desktop\utn\laboratorio de computación i - tup - 2022 1c\parcial 2 - tp integrador\pruebas\xd\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657301562 source:c:\users\user\desktop\utn\laboratorio 2022\tp generala definitivo\generala\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<mmsystem.h>
+	"funciones.h"
+	"rlutil.h"
+
+1657487506 c:\users\user\desktop\utn\laboratorio 2022\tp generala definitivo\generala\funciones.h
+	"rlutil.h"
+
+1656711729 c:\users\user\desktop\utn\laboratorio 2022\tp generala definitivo\generala\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
